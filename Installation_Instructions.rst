@@ -34,12 +34,16 @@ To begin installation of **Python 3.5.2** , locate where the download was saved 
 ..  image:: Images/Image_1.png
     :align: center
 
-Next you will be asked if you would like to run the program, click **Run**.
+You will be asked if you would like to run the program, click **Run**.
 
 ..  image:: Images/Image_2.png
     :align: center
 
-Here you will be given to options of instalatino, an express method or a custom method. The difereance in the two optinos is that the custom allows you to choose the locatino of wher **Python 3.5.2** is installed.
+Next you will be given two options of instalatino, an express method or a custom method. The differeance in the two optinos is that the custom allows you to choose the locatino of where **Python 3.5.2** is installed.
+
+..  image:: Images/Image_7.png
+    :align: center
+
 
 If you would like to run the express installatino, click **Install Now**. If yo u choose to do the custom installation, click **Customized Installation** and move down this page to |Customized Installatino|
 
@@ -61,7 +65,7 @@ Once the installatino is complete, you will see the following screen. Click **Cl
 
 The Installatino is now complete and you are ready to begin your journey into prgrammin using Python 3.5.2.
 
-Customized Installation
+|Customized Installation|
 -----------------------
 ..  image:: Images/Image_3_5.png
     :align: center
