@@ -65,7 +65,7 @@ Once the installatino is complete, you will see the following screen. Click **Cl
 
 The Installatino is now complete and you are ready to begin your journey into prgrammin using Python 3.5.2.
 
-|Customized Installation|
+.. |Customized Installation|
 -----------------------
 ..  image:: Images/Image_3_5.png
     :align: center
