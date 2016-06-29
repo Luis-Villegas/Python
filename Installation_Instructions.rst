@@ -45,7 +45,7 @@ Next you will be given two options of instalatino, an express method or a custom
     :align: center
 
 
-If you would like to run the express installatino, click **Install Now**. If yo u choose to do the custom installation, click **Customized Installation** and move down this page to |Customized Installatino|
+If you would like to run the express installatino, click **Install Now**. If yo u choose to do the custom installation, click **Customized Installation** and move down this page to Customized Installatino part.
 
 Install Now
 -----------
@@ -65,7 +65,7 @@ Once the installatino is complete, you will see the following screen. Click **Cl
 
 The Installatino is now complete and you are ready to begin your journey into prgrammin using Python 3.5.2.
 
-|Customized Installation|_
+Customized Installation
 --------------------------
 ..  image:: Images/Image_3_5.png
     :align: center
