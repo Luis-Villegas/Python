@@ -45,7 +45,7 @@ Next you will be given two options of instalatino, an express method or a custom
     :align: center
 
 
-If you would like to run the express installatino, click **Install Now**. If yo u choose to do the custom installation, click **Customized Installation** and move down this page to Customized Installatino part.
+If you would like to run the express installatino, click **Install Now**. If yo u choose to do the custom installation, click **Customized Installation** and move down this page to *Customized Installatino* section.
 
 Install Now
 -----------
